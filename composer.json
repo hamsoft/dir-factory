@@ -1,0 +1,20 @@
+{
+    "name": "hamsoft/dir-factory",
+    "description": "Create default directories",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dusan Vlahovic",
+            "email": "dusanvl87@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Hamsoft\\DirFactory\\": "./src"
+        }
+    },
+
+    "require": {}
+}
