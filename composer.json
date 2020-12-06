@@ -16,5 +16,7 @@
             "Hamsoft\\DirFactory\\": "./src"
         }
     },
-    "require": {}
+    "require": {
+        "illuminate/filesystem": "*"
+    }
 }
